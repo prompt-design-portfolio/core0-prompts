@@ -1,5 +1,5 @@
 # **Prompt Systems Portfolio**
-**Crafted by [Your Name]**  
+**Crafted by Corey Jones**  
 _Architect-Level Prompt Engineering • Modular • Strategic • Research-Ready_
 
 ---
